@@ -1,5 +1,7 @@
 # dendritic_solidification
 
+![anime](https://github.com/m12watanabe1a/dendritic_solidification/blob/master/anime.gif)
+
 Colablatoryからこのレポジトリの[このファイル](https://github.com/m12watanabe1a/dendritic_solidification/blob/master/dendritic_solidification.ipynb)
 をインポートして実行してください．
 
